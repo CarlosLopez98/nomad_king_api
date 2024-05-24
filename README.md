@@ -1,1 +1,1 @@
-"# Nomad King API" 
+# Nomad King API
